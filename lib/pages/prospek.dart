@@ -81,7 +81,9 @@ class _MyInformationState extends State<ProspekPage> {
               delegate: SliverChildBuilderDelegate(
                 // The builder function returns a ListTile with a title that
                 // displays the index of the current item.
-                    (context, index) => ListTile(title: Text(prospek[index])),
+                    (context, index) =>
+                        Card(
+                            child : ListTile(title: Text(prospek[index]))),
                 // Builds 1000 ListTiles
                 childCount: 18,
               ),

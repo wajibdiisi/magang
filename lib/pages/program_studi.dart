@@ -14,13 +14,13 @@ class _HomeState extends State<ProgramStudi> {
   List<Container> daftarSuperhero = new List();
 
   var karakter = [
-    {"nama": "Semester 1", "gambar": "gedung.jpg" , "semester" : 1},
-    {"nama": "Semester 2", "gambar": "gedung.jpg" , "semester" : 2},
-    {"nama": "Semester 3", "gambar": "gedung.jpg" , "semester" : 3},
-    {"nama": "Semester 4", "gambar": "gedung.jpg" , "semester" : 4},
-    {"nama": "Semester 5", "gambar": "gedung.jpg" , "semester" : 5},
-    {"nama": "Semester 6", "gambar": "gedung.jpg" , "semester" : 6},
-    {"nama": "Semester 7", "gambar": "gedung.jpg" , "semester" : 7},
+    {"nama": "Semester 1", "gambar": "gedung3.jpg" , "semester" : 1},
+    {"nama": "Semester 2", "gambar": "gedung3.jpg" , "semester" : 2},
+    {"nama": "Semester 3", "gambar": "gedung3.jpg" , "semester" : 3},
+    {"nama": "Semester 4", "gambar": "gedung3.jpg" , "semester" : 4},
+    {"nama": "Semester 5", "gambar": "gedung3.jpg" , "semester" : 5},
+    {"nama": "Semester 6", "gambar": "gedung3.jpg" , "semester" : 6},
+    {"nama": "Semester 7", "gambar": "gedung3.jpg" , "semester" : 7},
 
 
   ];

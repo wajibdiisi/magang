@@ -5,6 +5,7 @@ import 'package:ilmu_politik/pages/program_studi.dart';
 import 'package:ilmu_politik/pages/prospek.dart';
 import 'package:ilmu_politik/pages/informasi.dart';
 import 'package:ilmu_politik/pages/alumni.dart';
+import 'package:ilmu_politik/pages/susunanPimpinan.dart';
 
 void main() {
   runApp(MyApp());
@@ -37,6 +38,7 @@ class MyApp extends StatelessWidget {
     '/informasi' : (context) => InformationPage(),
      '/program_studi' : (context) => ProgramStudi(),
      '/alumni' : (context) => AlumniPage(),
+     '/pimpinan' : (context) => SusunanPimpinan(),
 
     }
     );

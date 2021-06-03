@@ -62,7 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
                       MyMenu( title : "Alumni", icon: Icons.school, color :  Colors.orange , link : '/alumni'),
                       MyMenu( title : "Dosen", icon: Icons.person_pin, color :  Colors.blueGrey, link : '/dosen'),
                       MyMenu( title : "Prospek Kerja", icon: Icons.work, color :  Colors.blueGrey, link : '/prospek'),
-                      MyMenu( title : "Program Studi", icon: Icons.account_balance, color :  Colors.brown, link : '/informasi'),
+                      MyMenu( title : "Struktur Pimpinan", icon: Icons.admin_panel_settings, color :  Colors.brown, link : '/pimpinan'),
+
 
                     ]
 
@@ -73,11 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }

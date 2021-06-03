@@ -18,14 +18,31 @@ class _HomeState extends State<InformationPage> {
 
   var karakter = [
     {"nama": "Profil", "gambar": "gedung.jpg" , "message" : "Program studi Ilmu Politik Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) Unpad bertujuan untuk mendidik mahasiswanya agar memiliki pemahaman yang komprehensif tentang nature dan struktur dari Ilmu Politik dalam berbagai bidang yaitu Teori Politik, Politik dan Pemerintahan Indonesia, Administrasi dan Kebijakan Publik, Politik Perbandingan, Ekonomi Politik, Hubungan Internasional dan atau Politik Dunia, dan Globalisasi. Program studi ini juga membantu meningkatkan kepekaan mahasiswa terhadap isu-isu politik sehari-hari guna membangun kesadaran sebagai warga negara dan warga dunia."},
-    {"nama": "Informasi", "gambar": "gedung.jpg" , "message" : "Akreditasi : A \n\n"
-        "Email : -"
-    "\n\n Website : http://ipol.fisip.unpad.ac.id/"
-        "\n\n Fakultas : Ilmu Sosial & Ilmu Politik"
-    "\n\n Telepon : 022-7798418 - 022-779641"},
+    {"nama": "Sejarah", "gambar": "gedung.jpg" , "message" : ""
+        "\t\t\t\t\t\tProgram Studi Ilmu Politik Universitas Padjadjaran secara resmi berdiri pada tahun 2012 dengan ijin operasional berdasarkan"
+        "Surat Keputusan Mendiknas Nomor 385/E/O/2012 dan mulai menerima mahasiswa baru pada tahun ajaran 2013/2014.\n\n"
+        "\t\t\t\t\t\tPada tahun 2014 Program Studi Ilmu Politik melaksanakan akreditasi pertama dan memperoleh peringkat B berdasarkan Surat Keputusan BAN PT No. 478/SK/BAN-PT/Akred/S/XII/2014.\n\n"
+        "\n"
+        "\t\t\t\t\t\tPada tahun 2015, Visi dan misi program studi mengalami perubahan seiring dengan perubahan pada Renstra Universitas (2015-2019; 2020-2024)"
+        " dan Fakultas (2015-2019; 2020-2024).\n\n"
+        "\t\t\t\t\t\tSaat ini, Program Studi Sarjana Ilmu Politik telah terakreditasi BAN-PT dengan nilai akreditasi A (Periode 23 Oktober 2019 s.d. 23 Oktober 2024)."},
+    {"nama": "Himpunan", "gambar": "hima.png" , "message" : ""
+        "\t\t\t\t\t\t Himpunan Mahasiswa Program Studi Ilmu Politik Universitas Padjadjaran atau disingkat HMPS IPOL UNPAD"
+        "Merupakan organisasi mahasiswa Ilmu Politik di tingkat jurusan\n\n"
+        "Visi HMPS IPOL UNPAD\n"
+        "Mewujudkan Himpunan Mahasiswa Program Studi Ilmu Politik Fakultas Ilmu Sosial dan Ilmu Politik Universitas Padjdjaran yang aspiratif, reflektif, gotong royong dan eksis dalam berbagai elemen kampus serta masyarakat."
+        "\nMisi \n\n"
+        "\n\t\t\t\t\t\t1.Membuka ruang atau wadah aspirasi mahasiswa dan civitas akademika Program Studi Ilmu Politik"
+        "\n\t\t\t\t\t2.Merespon secara aktif isu yang sedang berkembang dalam lingkup kemahasiswaan dan kemasyarakatan."
+        "\n\t\t\t\t\t3.Mewujudkan mahasiswa HMPS IPOL FISIP UNPAD yang memiliki jiwa kekeluargaan dan gotong royong."
+        "\n\t\t\t\t\t4.Menciptakan HMPS IPOL FISIP UNPAD yang dikenal baik , dan dapat beperan aktif untuk kegiatan di dalam dan di luar UNPAD serta masyarakat sekitar."},
     {"nama": "Visi", "gambar": "gedung.jpg" , "message" : "“Menjadi pengelola pendidikan tinggi yang memiliki komitmen terhadap keunggulan riset dalam Ilmu Politik dan memiliki daya saing pada tingkat nasional, regional dan Internasional pada tahun 2024”"},
-    {"nama": "Misi", "gambar": "gedung.jpg", "message" : "Mengembangkan kurikulum pendidikan yang berbasis riset dan mampu mengikuti perkembangan jaman untuk memenuhi tuntutan masyarakat, pengguna jasa pendidikan tinggi serta menghasilkan lulusan yang memiliki kompetensi di bidang politik.\n\nMengembangkan penelitian dan mempublikasikan hasil penelitian yangmenitikberatkan kepada isu-isu politik dalam lingkup lokal, nasional, regional dan internasional.\n\nMelaksanakan pengabdian kepada masyarakat guna menopang pembelajaran dan kemajuan ilmu pengetahuan, teknologi dan seni bagi komunitas akademik, pemerintah, industri dan masyarakat\n\nMengembangkan tata kelola pendidikan berdasarkan prinsip good governance.\n\nMenjalin hubungan kerjasama strategis dengan masyarakat, pemerintah, bisnis dan industri, institusi pendidikan, serta perguruan tinggi lain baik didalam negeri maupun luar negeri secara berkesinambungan dengan menerapkan prinsip kesetaraan, kemitraan dan saling percaya."},
-    {"nama": "Kompetensi", "gambar": "gedung.jpg", "message" :
+    {"nama": "Misi", "gambar": "gedung2.jpg", "message" : "\t\t\t\t\t\tMengembangkan kurikulum pendidikan yang berbasis riset dan mampu mengikuti perkembangan jaman "
+        "untuk memenuhi tuntutan masyarakat, pengguna jasa pendidikan tinggi serta menghasilkan lulusan yang memiliki kompetensi di bidang politik."
+        "\n\n\t\t\t\t\t\tMengembangkan penelitian dan mempublikasikan hasil penelitian yangmenitikberatkan kepada isu-isu politik dalam lingkup lokal, nasional, "
+        "regional dan internasional."
+        "\n\n\t\t\t\t\t\tMelaksanakan pengabdian kepada masyarakat guna menopang pembelajaran dan kemajuan ilmu pengetahuan, teknologi dan seni bagi komunitas akademik, pemerintah, industri dan masyarakat\n\nMengembangkan tata kelola pendidikan berdasarkan prinsip good governance.\n\nMenjalin hubungan kerjasama strategis dengan masyarakat, pemerintah, bisnis dan industri, institusi pendidikan, serta perguruan tinggi lain baik didalam negeri maupun luar negeri secara berkesinambungan dengan menerapkan prinsip kesetaraan, kemitraan dan saling percaya."},
+    {"nama": "Kompetensi", "gambar2": "gedung.jpg", "message" :
       "KOMPETENSI UTAMA"
           "\n\tMemahami konsep-konsep utama, berbagai perspektif teoritis, temuan-temuan empiris, dan tren sejarah perkembangan Ilmu Politik"
           "\n\tMemahami kekuatan sosial, kultur, sejarah, geografis dan kekuatan lainnya yang memunculkan konflik didalam dan antar kelompok-kelompok masyarakat"

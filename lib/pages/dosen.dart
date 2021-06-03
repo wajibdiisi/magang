@@ -61,7 +61,7 @@ class DataTableWidgetState extends State<DosenPage> {
         DataCell((Container(
         width : 100,
         height : 200,
-      child :  Image.asset(
+        child :  Image.asset(
         "assets/images/${city.photo}",
         width : 100,
         height : 200,

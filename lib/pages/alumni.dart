@@ -89,6 +89,21 @@ class MyStatelessWidget extends StatelessWidget {
           "gah Gerobak Perindo Periode 2015-2017"},
       {"NPM": "170810130043", "Nama": "Hardy Ramadhani","Yudisium" : "Sangat Memuaskan", "Judul" :
       "Partisipasi Politik Di Kalangan Mahasiswa Program Studi Ilmu Politik UniversitasPadjadjaran"},
+      {"NPM": "170810130024", "Nama": "Annisa Asyaadah Indriani","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "Pengaruh Pilihan Rasional Terhadap Perilaku Memilih Masyarakat Pada Pemilihan Umum 2014 (Studi Kasus Di Kecamatan Lengkong Kota Bandung)"},
+      {"NPM": "170810130074", "Nama": "Keisawa Bastian","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "Peran Lembaga Swadaya Masyarakat B-Trust Dalam Meningkatkan Partisipasi Politik Kaum Disabilitas Pada Pemilihan Presiden dan Wakil Presiden Tahun 2014 Kota Bandung"},
+      {"NPM": "170810130033", "Nama": "H	Arsyan Farizi","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "PStrategi Kampanye Idris Abdul Shomad-Pradi Supriatna Dalam Pilkada Kota Depok Tahun 2015"},
+      {"NPM": "170810130044", "Nama": "Khaza Deyan Dzulfiqar","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "Peran Lembaga Swadaya Masyarakat B-Trust Dalam Meningkatkan Partisipasi Politik Kaum Disabilitas Pada Pemilihan Presiden dan Wakil Presiden Tahun 2014 Kota Bandung"},
+      {"NPM": "170810130056", "Nama": "Mentari Puspitaningrum","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "Partisipasi Politik Anggota Perempuan Demokrat Republik Indonesia Pada Pilgub DKI Jakarta 2017"},
+      {"NPM": "170810130073", "Nama": "Malda Noor Amellia","Yudisium" : "Sangat Memuaskan", "Judul" :
+      "	Advokasi Gerakan Indonesia Diet Kantong Plastik Dalam Proses Terbentuknya Kebijakan Kantong Plastik Berbayar"},
+
+
+
 
 
 
